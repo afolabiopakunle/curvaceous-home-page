@@ -1,3 +1,27 @@
 body {
-  background: orange;
+  margin: 0;
+  font-family: 'Prompt', sans-serif;
+  color: white;
+  background-color: #202731;
+}
+
+section {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* min-height: 400px; */
+  padding: 30px 5vw;
+}
+
+.red {
+  background-color:#dd3f31
+}
+
+.blue {
+  background-color: #3c31dd;
+}
+
+.pink {
+  background-color: #ff0066;
 }
